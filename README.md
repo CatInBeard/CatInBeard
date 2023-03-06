@@ -1,4 +1,4 @@
-[![Avatar](https://avatars.githubusercontent.com/u/35694214)
+![Avatar](https://avatars.githubusercontent.com/u/35694214)
 
 
 [![codewars](https://www.codewars.com/users/CatInBeard/badges/small)](https://www.codewars.com/users/CatInBeard/)
